@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="53e72143-4971-4e7c-aa1f-bc0967ea58e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee-Management-System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changed_project/changed_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Management-System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Management-System.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/libraries/jcalendar_tz_1_3_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/libraries/jcalendar_tz_1_3_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/libraries/mysql_connector_j_9_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/libraries/mysql_connector_j_9_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/libraries/rs2xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/libraries/rs2xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/changed_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/Code_Files.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/AddDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/AddDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/AddEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/AddEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/AddProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/AddProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/Conn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/Conn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/ManageProjectEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/ManageProjectEmployees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/RemoveEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/RemoveEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/Splash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/UpdateEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/UpdateEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/ViewEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/ViewEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/employee/management/system/ViewProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/employee/management/system/ViewProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/ER.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/ER.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/add_employee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/add_employee.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/details.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/details.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/front.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/mermaid-diagram-2025-03-24-214226.png" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/mermaid-diagram-2025-03-24-214226.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/print.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/print.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/remove.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/remove.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/second.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/second.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changed_project/src/icons/view.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Code_Files/src/icons/view.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddEmployee.executor": "Run",
     "Application.Splash.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -38,6 +71,21 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Splash" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Splash" />
+      <module name="Employee-Management-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
